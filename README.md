@@ -7,7 +7,7 @@
 
 🔍 Exploring AI: From natural language processing to computer vision, I explore a variety of AI domains to understand and harness the power of machine learning.
 
-💻 Tools & Technologies: Proficient in using TensorFlow, PyTorch, Keras, and other popular frameworks and libraries for developing AI models.
+💻 Tools & Technologies: Proficient in using PyTorch and other popular frameworks and libraries for developing AI models.
 
 📈 Data-Driven: Strong focus on data preprocessing, feature engineering, and leveraging big data for training robust models.
 
