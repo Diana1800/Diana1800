@@ -19,6 +19,7 @@ Image Classification: Implementing CNNs to classify images with high accuracy.
 Natural Language Processing: Developing models for text generation, sentiment analysis, and more.
 Reinforcement Learning: Experimenting with algorithms for training intelligent agents.
 Generative Models: Creating GANs and VAEs for generating realistic data samples.
+
 🔧 Experimentation: Constantly experimenting with different architectures, hyperparameters, and optimization techniques to improve model performance.
 
 🌍 Impactful Applications: Striving to develop AI solutions that have real-world applications and can make a positive impact.
